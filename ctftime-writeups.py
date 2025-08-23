@@ -1,7 +1,7 @@
 from serpapi import GoogleSearch
 
 # 🔑 Put your SerpAPI key here
-SERPAPI_KEY = "b652abb9c8b227d22016514969efc673623a11bae50b0534ec0534b99dfadf9c"
+SERPAPI_KEY = "SERP_KEY"
 
 def fetch_ctf_writeups(year):
     query = f"CTF writeup {year} site:ctftime.org"
