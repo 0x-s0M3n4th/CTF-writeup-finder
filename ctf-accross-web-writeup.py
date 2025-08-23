@@ -4,7 +4,7 @@ import datetime
 # ==============================
 # CONFIG
 # ==============================
-SERPAPI_KEY = "b652abb9c8b227d22016514969efc673623a11bae50b0534ec0534b99dfadf9c"   # 🔑 Put your key here
+SERPAPI_KEY = "SERPAPI_KEY"   # 🔑 Put your key here
 RESULTS_PER_QUERY = 20               # number of results to fetch per year
 
 # ==============================
