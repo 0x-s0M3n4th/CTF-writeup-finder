@@ -25,7 +25,8 @@ pip install requests
 	2.	Create a free account.
 	3.	Copy your API Key from your dashboard.
 	4.	Replace the placeholder inside the script:
- 📂 Logging Setup
+
+📂 Logging Setup
 
 This script automatically creates a log file named ctf_writeups_log.txt in the same directory.
 It tracks each step (searching, fetching results, errors, etc.).
